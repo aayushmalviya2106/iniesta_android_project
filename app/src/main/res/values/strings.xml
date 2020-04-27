@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TAXATION</string>
+    <string name="home">home</string>
+    <string name="calculator">calculator</string>
+    <string name="about">about</string>
+    <string name="connect">connect</string>
+    <string name="open_drawer">open drawer</string>
+    <string name="close_drawer">close drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_frag">home_frag</string>
+    <string name="service_frag">service_frag</string>
+    <string name="career_frag">career_frag</string>
+    <string name="refer_frag">refer_frag</string>
+    <string name="blog_frag">blog_frag</string>
+    <string name="calc_frag">calc_frag</string>
+    <string name="connect_frag">connect_frag</string>
+    <string name="about_frag">about_frag</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

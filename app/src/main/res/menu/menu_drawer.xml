@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/home">
+
+        </item>
+        <item
+            android:id="@+id/services"
+            android:icon="@drawable/ic_services"
+            android:title="services">
+
+        </item>
+        <item
+            android:id="@+id/careers"
+            android:icon="@drawable/ic_career"
+            android:title="careers">
+
+        </item>
+        <item
+            android:id="@+id/refer_app"
+            android:icon="@drawable/ic_refer"
+            android:title="Refer">
+
+        </item>
+
+
+        <item
+            android:id="@+id/blogs"
+            android:icon="@drawable/ic_blog"
+            android:title="blogs">
+
+        </item>
+
+        <item
+            android:id="@+id/calculator"
+            android:icon="@drawable/ic_calculator"
+            android:title="@string/calculator">
+
+        </item>
+        <item
+            android:id="@+id/connect"
+            android:icon="@drawable/ic_connect"
+            android:title="@string/connect">
+
+        </item>
+
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/ic_about"
+            android:title="@string/about">
+
+        </item>
+
+    </group>
+</menu>
